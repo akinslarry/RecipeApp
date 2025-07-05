@@ -1,21 +1,8 @@
 <html>
 <body>
     <h1>Recipe App</h1>
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#getting-started">Getting Started</a>
-            <ul>
-                <li><a href="#prerequisites">Prerequisites</a></li>
-                <li><a href="#installation">Installation</a></li>
-            </ul>
-        </li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#technologies-used">Technologies Used</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-    </ul>
+    
+   
     <h2>Introduction</h2>
     <p>The Recipe App is a mobile application designed to help users discover, save, and cook delicious recipes. Whether you're a seasoned chef or a kitchen novice, this app provides a wealth of culinary inspiration and convenience.</p>
     <h2>Features</h2>
