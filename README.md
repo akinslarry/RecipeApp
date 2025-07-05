@@ -15,15 +15,11 @@
         <li><strong>Real-time Updates:</strong> Stay up-to-date with the latest recipes and user-submitted content.</li>
     </ul>
     <h2>Getting Started</h2>
-    <h3>Prerequisites</h3>
-    <p>Before you begin, ensure you have met the following requirements:</p>
-    <ul>
-        <li><strong>Android Studio:</strong> Make sure you have Android Studio installed.</li>
-        <li><strong>Firebase Account:</strong> Create a Firebase account and set up a project for authentication and real-time database features.</li>
-    </ul>
-    <h3>Installation</h3>
+    
+
+   
+    
     <ol>
-        <li>Clone the repository:</li>
     </ol>
     <ol start="2">
         <li>Open the project in Android Studio.</li>
